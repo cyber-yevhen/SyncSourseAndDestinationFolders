@@ -101,4 +101,3 @@ Meaning:
 
 - `.vs/`, `bin/`, and `obj/` are ignored in Git.
 - The project is intentionally small and split into simple classes under `Application`, `Services`, `Models`, and `Abstractions`.
-- Press `Ctrl+C` to stop monitoring.
