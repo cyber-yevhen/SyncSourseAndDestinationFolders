@@ -1,0 +1,59 @@
+[
+  {
+    "destinations": [
+      "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test\\dest1",
+      "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test\\dest2"
+    ],
+    "sourse": "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test\\source"
+  },
+  {
+    "destinations": [
+      "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test2\\dest"
+    ],
+    "sourse": "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test2\\source"
+  },
+  {
+    "destinations": [
+      "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test3\\dest"
+    ],
+    "sourse": "D:\\dev\\cyber-yevhen\\SyncSourseAndDestinationFolders\\_runtime_test3\\source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_sync_rule\\dest1",
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_sync_rule\\dest2"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_sync_rule\\source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_timestamp_log\\dest"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_timestamp_log\\source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_timestamp_log_fresh\\dest"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_timestamp_log_fresh\\source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_start_flow\\existing-dest"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_start_flow\\replacement-source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_destination_retry\\valid-dest"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_destination_retry\\source"
+  },
+  {
+    "destinations": [
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_single_source_log\\dest1",
+      "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_single_source_log\\dest2"
+    ],
+    "sourse": "C:\\Users\\A620I AX\\Documents\\New project 2\\verify_single_source_log\\source"
+  }
+]
